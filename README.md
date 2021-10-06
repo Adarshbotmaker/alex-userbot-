@@ -29,7 +29,7 @@ ALEX
 The owner would not be responsible for any kind of bans due to the bot.
 FORK AT YOUR OWN RISK
 ⚙️ D E P L O Y I N G ⚙️
-DEPLOY TO HEROKU - https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8
+DEPLOY TO HEROKU - COMMING SOON
 
 
 StringSession
