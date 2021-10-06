@@ -111,6 +111,3 @@ About
 
 
 
-DEPLOY TO HEREKOU
-
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FW2HGalaxy-OP%2FW2HBot&template=https%3A%2F%2Fgithub.com%2FW2HGalaxy-OP%2FW2HBot
