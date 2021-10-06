@@ -39,7 +39,7 @@ ALEX USERBOT
 Copyright (C) 2021 Team Alex
 [GENRATE STRING SESSION](https://t.me/SessionGeneratorBot)
 
-
+[👉Herekou deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FMafiaBotOP%2FMafiaBot&template=https%3A%2F%2Fgithub.com%2FMafiaBotOP%2FMafiaBot)
 NOTE - YOU HAVE TO OPEN IT ON CHROME NOT ON BROWSER
 
 [CREDITS]
