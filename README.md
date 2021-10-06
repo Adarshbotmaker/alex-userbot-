@@ -33,7 +33,12 @@ notifications in Update Channel.
 
 ALEX USERBOT
 
-Copyright (C) 2021 Team Alex GENRATE STRING SESSION
+Copyright (C) 2021 Team Alex
+
+
+[GENRATE STRING SESSION](https://t.me/SessionGeneratorBot)
+
+
 
 NOTE - YOU HAVE TO OPEN IT ON CHROME NOT IN BROWSER
 
