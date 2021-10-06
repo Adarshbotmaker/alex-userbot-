@@ -69,3 +69,9 @@ ALEX USERBOT
  [GENRATE STRING SESSION](https://t.me/SessionGeneratorBot)
 
 NOTE - YOU HAVE TO OPEN IT ON CHROME NOT ON BROWSER
+
+
+ [CREDITS]
+
+
+[MAFIA USERBOT](https://github.com/MafiaBotOP)
