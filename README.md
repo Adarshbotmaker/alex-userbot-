@@ -35,10 +35,7 @@ DEPLOY TO HEROKU - COMMING SOON
 StringSession
 GenerateString -
 
-- Click On Generate String 
-- Then Click On Green Run Button.
-- Wait for a while then fill the details.
-- String will be saved in your Saved Message.
+- 
 TO HOST ALEX USERBOT LOCALLY OR ON ANY OTHER VPS CLICK BELOW
 ⚡ ALEX USERBOT ⚡
 Mandatory Vars
