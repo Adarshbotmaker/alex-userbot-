@@ -8,6 +8,8 @@ SMOOTHEST AND FASTEST USERBOT
 Status Of Bot
 / Public
 
+https://github.com/Adarshbotmaker/alex-userbot-/tree/patch-1
+
 README.md ⚡ ALEX USERBOT This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. SO NOTE - All credits goes to its Respective Owners. This is the one and only official ALEX Userbot made by ALEX Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝
 
 ALEX
