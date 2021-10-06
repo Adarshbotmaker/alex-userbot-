@@ -36,3 +36,10 @@ ALEX USERBOT
 Copyright (C) 2021 Team Alex GENRATE STRING SESSION
 
 NOTE - YOU HAVE TO OPEN IT ON CHROME NOT IN BROWSER
+
+
+
+
+Credits
+
+[mafia userbot](https://github.com/MafiaBotOP)
