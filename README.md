@@ -66,10 +66,7 @@ notifications in Update Channel.
 ALEX USERBOT
 # Copyright (C) 2021 Team Alex
 #
-# This file is a part of < https://github.com/alex-userbot
-# PLease read the GNU Affero General Public License in <https://www.github.com/alex-userbot/blob/main/LICENSE/>.
 
-bash resources/session/session.sh
 
 
 
