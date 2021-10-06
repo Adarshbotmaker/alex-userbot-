@@ -18,24 +18,10 @@
 /
 Public
 
- GPL-3.0 License
- 0 stars  19 forks
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-This branch is 4 commits behind ALEX :master.
-Latest commit
 
-
-Git stats
-Files
 README.md
 ⚡ ALEX USERBOT
-This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
+This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. SO NOTE -  All credits goes to its Respective Owners.
 This is the one and only official ALEX Userbot made by ALEX Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝
 
 ALEX 
@@ -43,13 +29,13 @@ ALEX
 The owner would not be responsible for any kind of bans due to the bot.
 FORK AT YOUR OWN RISK
 ⚙️ D E P L O Y I N G ⚙️
-DEPLOY TO HEROKU
-Deploy
+DEPLOY TO HEROKU - 
+
 
 StringSession
-GenerateString
+GenerateString -
 
-- Click On Generate String
+- Click On Generate String 
 - Then Click On Green Run Button.
 - Wait for a while then fill the details.
 - String will be saved in your Saved Message.
@@ -75,38 +61,6 @@ support Group and get updates
 
 notifications in Update Channel.
 
-
-
-
-Contact Me
-
-• LICENSE •
-• Credits 🏅 •
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Python
-67.7%
- 
-Shell
-28.8%
- 
-Dockerfile
-3.5%
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
 
 
