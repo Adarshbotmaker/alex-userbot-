@@ -37,7 +37,7 @@ Files
 README.md
 ⚡ ALEX USERBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
-This is the one and only official W2HBot Userbot made by @David99q. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝
+This is the one and only official ALEX Userbot made by ALEX Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝
 
 ALEX 
 
@@ -70,7 +70,7 @@ The userbot will not work without setting the mandatory vars.
 Official Supports ✅
 Get help regarding setting up 
 
-your W2HBot in our official 
+your @ALEX_USERBOT in our official 
 
 support Group and get updates
 
